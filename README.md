@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/followers/C-Senanayake?style=social flat-square"> 
+<!--<img src="https://img.shields.io/github/followers/C-Senanayake?style=social flat-square"> -->
 <img src="header.svg" width="800" height="350">
 
 <h2>I am Currently learning React and Flutter</h2>
