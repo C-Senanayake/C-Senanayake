@@ -52,14 +52,18 @@
 
       @keyframes text-animation {
           0% {margin-top: 0;}
-          10% {margin-top: 0;}
-          20% {margin-top: -5.62rem;}
-          30% {margin-top: -5.62rem;}
+          8% {margin-top: 0;}
+          16% {margin-top: -5.62rem;}
+          24% {margin-top: -5.62rem;}
+          32% {margin-top: -11.24rem;}
           40% {margin-top: -11.24rem;}
-          60% {margin-top: -11.24rem;}
-          70% {margin-top: -5.62rem;}
+          48% {margin-top: -16.86rem;}
+          56% {margin-top: -16.86rem;}
+          64% {margin-top: -11.24rem;}
+          72% {margin-top: -11.24rem;}
           80% {margin-top: -5.62rem;}
-          90% {margin-top: 0;}
+          84% {margin-top: -5.62rem;}
+          92% {margin-top: 0;}
           100% {margin-top: 0;}
       }
 
